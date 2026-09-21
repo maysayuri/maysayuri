@@ -51,21 +51,13 @@ Simulação de ataques de força bruta (FTP, SMB e formulário web) com Medusa, 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maysayuri&show_icons=true&bg_color=0D0D0D&title_color=EC4899&text_color=E5E7EB&icon_color=8B5CF6&border_color=4C1D95&border_radius=12&locale=pt-br" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysayuri&layout=compact&bg_color=0D0D0D&title_color=EC4899&text_color=E5E7EB&border_color=4C1D95&border_radius=12&locale=pt-br" alt="Top Languages"/>
-
 <img src="https://streak-stats.demolab.com?user=maysayuri&background=0D0D0D&ring=EC4899&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EC4899&sideLabels=E5E7EB&dates=9CA3AF&border=4C1D95&locale=pt_BR" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maysayuri&bg_color=0D0D0D&color=EC4899&line=8B5CF6&point_color=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%"/>
+<br><br>
 
-</div>
+<img src="https://img.shields.io/github/followers/maysayuri?style=flat-square&labelColor=0D0D0D&color=EC4899&label=seguidores" alt="Seguidores"/>
+<img src="https://img.shields.io/github/languages/top/maysayuri/desafio-seguranca-medusa?style=flat-square&labelColor=0D0D0D&color=8B5CF6&label=linguagem%20principal" alt="Linguagem principal"/>
 
-<br>
-
-## ▍Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maysayuri&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br>
