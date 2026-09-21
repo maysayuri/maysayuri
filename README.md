@@ -10,12 +10,13 @@
 
 ## ▍Sobre mim
 
-Estudo cibersegurança de forma prática: monto um laboratório, executo os testes e registro cada etapa em relatório.
+Estudo cibersegurança na prática: monto o ambiente de laboratório, executo os testes e documento os resultados em relatório.
 
-- 🎓 Em formação pelo programa **Hackers do Bem** e por um bootcamp de cibersegurança na **DIO**
-- 🧪 Pratico em laboratório com **Kali Linux**, **Medusa** e **Metasploitable 2**
-- 🐍 Uso **Python** e **Bash** para automatizar testes
-- 📚 Estudando também redes e programação, a base para avançar em segurança
+- **Laboratório:** Kali Linux, Nmap, Medusa e Metasploitable 2
+- **Automação:** scripts em Python e Bash
+- **Base técnica:** redes e programação
+- **Em paralelo:** desenvolvimento fullstack e inglês
+- **Formação:** comecei pelo Hackers do Bem e pela DIO e sigo em estudo autodidata.
 
 <br>
 
