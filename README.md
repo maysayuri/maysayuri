@@ -65,8 +65,8 @@ Simulação de ataques de força bruta (FTP, SMB e formulário web) com Medusa, 
 
 <img src="https://img.shields.io/github/followers/maysayuri?style=flat-square&labelColor=0D0D0D&color=C026D3&label=seguidores" alt="Seguidores"/>
 <img src="https://img.shields.io/github/languages/top/maysayuri/desafio-seguranca-medusa?style=flat-square&labelColor=0D0D0D&color=8B5CF6&label=linguagem%20principal" alt="Linguagem principal"/>
-## 🎓 Certificações
-
+ <h2 align="center">🎓 Certificações</h2>
+ 
 <a href="https://www.credly.com/badges/7f8ff5b3-e3ad-406f-b303-d02ec8228e26" target="_blank">
   <img src="https://images.credly.com/images/92d90000-9c96-4dbd-a37d-8c47bf338bca/linkedin_thumb_blob" alt="Cisco - Digital Safety and Security Awareness" width="150">
 </a>
